@@ -31,7 +31,7 @@
 
 ```bash
 pip install aiohttp httpx aiohttp-socks
-
+```
 ## Инициализация
 ```
 from .proxy_controller import ProxyController, HttpClientType
